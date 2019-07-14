@@ -10,10 +10,12 @@ Functions:
 
 Web-Site: https://999dice-bot.github.io
 All Releases: https://github.com/999dice-bot/999dice-bot.github.io/releases
+
+---------------------------------------------------------------------------------
 Download:
 
   Windows(EXE) https://github.com/999dice-bot/999dice-bot.github.io/releases/download/999dicebotwindows/dice999.exe
   
   Android(APK) https://github.com/999dice-bot/999dice-bot.github.io/releases/download/999dicebotandroid/dice999.apk
   
-  
+-----------------------------------------------------------------------------------
